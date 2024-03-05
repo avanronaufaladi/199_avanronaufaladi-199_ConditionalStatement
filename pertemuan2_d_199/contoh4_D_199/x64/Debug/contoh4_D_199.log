@@ -1,0 +1,3 @@
+﻿  contoh4_D_199.cpp
+C:\Users\Ryzen\source\repos\ConsoleApp1\pertemuan2_d_199\contoh4_D_199\contoh4_D_199.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  contoh4_D_199.vcxproj -> C:\Users\Ryzen\source\repos\ConsoleApp1\pertemuan2_d_199\x64\Debug\contoh4_D_199.exe

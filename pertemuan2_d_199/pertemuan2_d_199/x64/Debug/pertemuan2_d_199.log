@@ -1,0 +1,3 @@
+﻿  pertemuan2_d_199.cpp
+C:\Users\Ryzen\source\repos\ConsoleApp1\pertemuan2_d_199\pertemuan2_d_199\pertemuan2_d_199.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pertemuan2_d_199.vcxproj -> C:\Users\Ryzen\source\repos\ConsoleApp1\pertemuan2_d_199\x64\Debug\pertemuan2_d_199.exe
